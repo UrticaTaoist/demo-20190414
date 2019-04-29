@@ -1,0 +1,5 @@
+
+#TESTS: dffds
+#test: ${MYSQL-USER:root}
+server:
+  port: 80
